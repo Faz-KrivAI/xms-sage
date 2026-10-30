@@ -1,0 +1,11 @@
+# Vercel
+.vercel
+
+# Local env files
+.env*.local
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
